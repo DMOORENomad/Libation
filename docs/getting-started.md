@@ -68,7 +68,7 @@ The button becomes available once the account has signed in, so scan your librar
 
 ## Import Your Library
 
-Be default, Libation will periodically scan the accounts you added above with a checkbox next to them. Nothing for you to do. You can also scan manually.
+By default, Libation will periodically scan the accounts you added above with a checkbox next to them. Nothing for you to do. You can also scan manually.
 
 Select Import > Scan Library:
 
